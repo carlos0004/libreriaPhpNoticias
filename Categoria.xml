@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categorias>
+  <categoria>
+    <id_categoria>1</id_categoria>
+    <denominacion>Futbol</denominacion>
+  </categoria>
+  <categoria>
+    <id_categoria>2</id_categoria>
+    <denominacion>Futbol Sala</denominacion>
+  </categoria>
+  <categoria>
+    <id_categoria>3</id_categoria>
+    <denominacion>Moda</denominacion>
+  </categoria>
+  <categoria>
+    <id_categoria>4</id_categoria>
+    <denominacion>Política</denominacion>
+  </categoria>
+  <categoria>
+    <id_categoria>5</id_categoria>
+    <denominacion>Cine</denominacion>
+  </categoria>
+  <categoria>
+    <id_categoria>6</id_categoria>
+    <denominacion>Animales</denominacion>
+  </categoria>
+</categorias>

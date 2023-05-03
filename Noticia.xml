@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticias>
+  <noticia>
+    <id_noticia>1</id_noticia>
+    <titulo>Delfín rosa, ¿mito o realidad?</titulo>
+    <contenido>La cifra es estremecedora: alrededor de un millón de especies, entre ellas algunas que se consideraban hasta ahora comunes, están el peligro de extinción, según el informe más reciente de la Plataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas (IPBES), organismo intergubernamental independiente de ciencia y política respaldado por la ONU. La deforestación, la contaminación, el cambio climático, la agricultura y pesca intensivas, y las actividades humanas amenazan los ecosistemas del planeta. Jirafas, loros, algas y robles, entre muchos otros, están amenazados. Son animales conocidos, pero una de las especies más singulares del planeta, como es el delfín rosa, también está en jaque, y poco sabemos de este mamífero. De hecho, quizás no lo hayas visto nunca. Ni en foto. Su nombre no es baladí y son de este color. ¿Por qué?&#13;
+&#13;
+Jirafas, loros, algas y robles, entre las especies en peligro de extinción, alerta la ONU&#13;
+BIODIVERSIDAD&#13;
+Jirafas, loros, algas y robles, entre las especies en peligro de extinción, alerta la ONU&#13;
+Es tan singular que es una de las especies únicas del Amazonas. El delfín rosado se extinguirá en menos de 50 años, revela un estudio de la Unión Internacional para la Conservación de la Naturaleza (UICN). La mayor amenaza para la supervivencia de esta especie, de la que se calcula que pueden haber unos 50.000 ejemplares en las cuencas de la Amazonia y la Orinoquia son su caza indiscriminada y el deterioro de su hábitat natural.</contenido>
+    <descripcion>La población de este mamífero es estimada y se extinguirá en menos de 50 años, según revela un estud</descripcion>
+    <id_autor>1</id_autor>
+    <id_categoria>6</id_categoria>
+  </noticia>
+  <noticia>
+    <id_noticia>2</id_noticia>
+    <titulo>¿Qué cosas hacen felices a los perros?</titulo>
+    <contenido>Los perros son mascotas activas, juguetonas y cariñosas. Tanto que para muchas personas son grandes compañeros de vida. Por eso, es fundamental que los canes se sientan a gusto en su día a día. Para ello, te damos cuatro trucos para que tu mascota sea más feliz y tenga bienestar.</contenido>
+    <descripcion>Los canes son grandes compañeros de vida para muchas personas. Por eso, es fundamental que se sienta</descripcion>
+    <id_autor>2</id_autor>
+    <id_categoria>6</id_categoria>
+  </noticia>
+  <noticia>
+    <id_noticia>3</id_noticia>
+    <titulo>Unai Gómez cuenta como medio en el Athletic</titulo>
+    <contenido>Unai Gómez es una de las pocas alegrías del Bilbao Athletic en la presente temporada. El centrocampista zurdo de Bermeo, que en mayo cumplirá 20 años, ha ido ganando protagonismo en las alineaciones del filial rojiblanco con el discurrir de la campaña. Valverde ya le ha hecho subir a entrenar con el primer equipo, aunque todavía no ha llegado a entrar en convocatoria.&#13;
+&#13;
+Visto el panorama del Athletic en el centro del campo de cara al choque frente al Sevilla, no parece descabellado pensar en la posibilidad de que Unai Gómez sea citado por el técnico gasteiztarra. Se da la curiosa circunstancia de que en las dos últimas jornadas ligueras del filial, pese a haber subido a entrenar con los leones, Pallarés ha situado a Unai Gómez como lateral izquierdo.</contenido>
+    <descripcion>El joven cachorro ha disputado los dos últimos encuentros con el Bilbao Athletic como lateral zurdo </descripcion>
+    <id_autor>1</id_autor>
+    <id_categoria>1</id_categoria>
+  </noticia>
+  <noticia>
+    <id_noticia>4</id_noticia>
+    <titulo>El Athletic se queja ante LaLiga</titulo>
+    <contenido>El Athletic tiene que disputar sus dos próximos compromisos ligueros, con el pasaporte europeo en juego, en sendos jueves a las 22 horas. Desde Ibaigane se ha informado a última hora de la tarde de hoy de que "en cuanto tuvo conocimiento de dichos horarios, el Club trasladó una queja formal a LaLiga para mostrar su desagrado por tener dos partidos en casa de forma consecutiva a las 22:00 de la noche que suponen un manifiesto perjuicio para la afición rojiblanca”.</contenido>
+    <descripcion>El club rojiblanco trasladó una queja formal a LaLiga </descripcion>
+    <id_autor>3</id_autor>
+    <id_categoria>1</id_categoria>
+  </noticia>
+</noticias>
