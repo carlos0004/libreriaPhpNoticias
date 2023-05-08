@@ -15,4 +15,19 @@
     <nombre>José Antonio </nombre>
     <apellido>Beltrán</apellido>
   </autor>
+  <autor>
+    <id_autor>4</id_autor>
+    <nombre>Pedro</nombre>
+    <apellido>Sanz</apellido>
+  </autor>
+  <autor>
+    <id_autor>5</id_autor>
+    <nombre>Mario</nombre>
+    <apellido>Soldado</apellido>
+  </autor>
+  <autor>
+    <id_autor>6</id_autor>
+    <nombre>Jesús</nombre>
+    <apellido>Beltrán</apellido>
+  </autor>
 </autores>

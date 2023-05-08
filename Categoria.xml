@@ -24,4 +24,12 @@
     <id_categoria>6</id_categoria>
     <denominacion>Animales</denominacion>
   </categoria>
+  <categoria>
+    <id_categoria>7</id_categoria>
+    <denominacion>Informática</denominacion>
+  </categoria>
+  <categoria>
+    <id_categoria>8</id_categoria>
+    <denominacion>Electrónica</denominacion>
+  </categoria>
 </categorias>
