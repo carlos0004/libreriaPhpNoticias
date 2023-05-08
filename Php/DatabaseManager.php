@@ -71,7 +71,7 @@ function createXml($lista, $tabla, $nombreArchivo)
             }
         }
         echo 'Archivo creado correctamente' . "<br>";
-        return $xmlDoc->save($nombreArchivo . ".xml");
+        return $xmlDoc->save("../xml/" . $nombreArchivo . ".xml");
     } else {
         echo 'No existe esa tabla' . "<br>";
     }
@@ -135,14 +135,5 @@ function xmlCategoriaToSql($file)
         $stmt->execute();
     }
 }
-//createXml(getTablaF("noticia", $filtro), 'noticias', 'Noticia');
-//createXml(getTabla('noticia'), 'noticias', 'Noticia');
-//createXml(getTabla('categoria'), 'categorias', 'Categoria');
-
-//createXml(getTablaF('autor', 'nombre', 'Carlos'), 'autores', 'AutorCarlos');
-
-//xmlAutorToSql("Autor.xml");
-//xmlNoticiaToSql("Noticia.xml");
-//xmlCategoriaToSql("Categoria.xml");
 }
 ?>

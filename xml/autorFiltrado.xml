@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autores>
+  <autor>
+    <id_autor>1</id_autor>
+    <nombre>Carlos </nombre>
+    <apellido>Sánchez</apellido>
+  </autor>
+  <autor>
+    <id_autor>6</id_autor>
+    <nombre>Carlos</nombre>
+    <apellido>Beltrán</apellido>
+  </autor>
+</autores>
